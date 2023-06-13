@@ -1,2 +1,2 @@
 # hellow-world
-Demo on Github.
+Demo on GitHub.
